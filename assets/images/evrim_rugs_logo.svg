@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Background is transparent -->
+  <g fill="#7A221E">
+    <!-- E Vertical Stem and Serifs -->
+    <!-- Top serif on E stem -->
+    <path d="M 135 140 L 250 140 L 250 162 L 230 162 L 230 160 L 165 160 L 165 200 L 180 200 C 180 200 238 165 240 200 C 242 220 205 220 180 205 L 165 210 L 165 295 L 250 295 L 250 297 L 230 300 L 230 300 L 135 300 L 135 297 L 150 295 L 150 145 Z" opacity="0"/>
+    
+    <!-- Precise Classical ER Monogram Paths -->
+    <!-- Letter E -->
+    <!-- Left vertical bar with top and bottom serifs -->
+    <path d="M 140 140 H 252 V 162 H 235 V 158 H 168 V 215 H 182 C 215 215 235 200 236 175 H 248 C 246 210 220 226 195 228 C 228 232 250 250 252 278 H 238 C 235 252 215 242 182 242 H 168 V 292 H 252 V 288 H 262 V 310 H 140 V 288 H 154 V 162 H 140 Z" opacity="0"/>
+    
+    <!-- Vector recreation matching the uploaded Monogram -->
+    <!-- E Main Stem -->
+    <path d="M 140 140 L 252 140 L 252 162 L 238 162 L 238 158 L 168 158 L 168 292 L 246 292 L 246 288 L 252 288 L 252 310 L 140 310 L 140 288 L 154 288 L 154 162 L 140 162 Z" />
+    
+    <!-- Swash / Flourish connecting E and R -->
+    <path d="M 168 220 C 190 200 215 235 235 210 C 238 190 225 168 250 165 C 285 160 325 185 325 215 C 325 238 305 252 275 253 C 260 253 250 248 248 245 C 255 252 270 255 285 254 C 315 252 334 236 334 212 C 334 180 295 152 250 158 C 230 160 225 180 220 195 C 205 218 185 198 168 212 Z" />
+    
+    <!-- R Loop and Dynamic sweeping leg -->
+    <path d="M 223 170 C 235 166 260 163 290 165 C 325 168 345 185 345 212 C 345 235 328 252 295 254 C 275 255 255 250 248 244 L 247 248 C 260 258 280 262 300 260 C 335 257 358 238 358 210 C 358 178 330 154 285 152 C 255 150 233 158 223 165 Z"/>
+    
+    <!-- R Sweeping Tail / Leg -->
+    <path d="M 255 252 C 265 258 280 270 290 285 C 305 305 325 328 355 338 L 368 340 C 352 335 338 325 325 308 C 312 292 295 272 275 260 C 265 254 258 250 255 252 Z" />
+    <path d="M 254 252 C 268 260 286 280 300 300 C 315 322 332 336 358 342 C 345 336 332 322 320 302 C 308 282 290 265 272 255 Z"/>
+    
+    <!-- Combined clean monogram ER contour -->
+    <path d="M 230 168 C 245 164 275 164 305 174 C 332 184 345 204 345 220 C 345 240 326 256 295 258 C 280 259 265 256 252 248 C 262 258 280 264 300 262 C 330 259 356 242 356 218 C 356 195 338 175 305 164 C 278 155 248 156 226 162 Z"/>
+    <path d="M 256 255 C 275 268 298 292 312 312 C 328 334 344 346 368 350 C 350 345 335 334 320 315 C 305 294 285 272 262 258 Z"/>
+  </g>
+  <!-- Brand text under monogram -->
+  <text x="250" y="380" font-family="'Cinzel', 'Times New Roman', 'Baskerville', serif" font-size="28" font-weight="500" letter-spacing="0.32em" fill="#7A221E" text-anchor="middle">
+    EVRIM RUGS
+  </text>
+</svg>
